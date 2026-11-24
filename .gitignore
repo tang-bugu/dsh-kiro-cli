@@ -1,0 +1,12 @@
+node_modules/
+*.tgz
+*.log
+
+# Local diagnostics
+.trace/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

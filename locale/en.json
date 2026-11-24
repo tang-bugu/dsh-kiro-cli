@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Kiro CLI bridge",
+    "description": "Runs this machine's kiro-cli from a sidebar panel and exposes it to the agent as the kiro_cli tool."
+  }
+}

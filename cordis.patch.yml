@@ -1,0 +1,6 @@
+# dsh-kiro-cli bundle patch: one Host row carries the tool and the HTTP API;
+# the browser half is declared by package.json's dsh.client on this same row.
+- insert:
+    - id: kiro-cli
+      name: 'dsh-kiro-cli'
+      config: {}

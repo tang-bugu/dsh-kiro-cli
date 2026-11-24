@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Kiro CLI 桥接",
+    "description": "在侧边栏面板里调用本机 kiro-cli，并把它作为 kiro_cli 工具提供给 Agent。"
+  }
+}
